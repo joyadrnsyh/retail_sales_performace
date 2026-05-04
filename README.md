@@ -1,3 +1,4 @@
+<img width="982" height="565" alt="image" src="https://github.com/user-attachments/assets/6600fbb5-e548-4b7b-8f40-0e5347de460e" />
 # 📊 Sales Analytics Dashboard – End-to-End Data Analysis
 
 ## Overview
